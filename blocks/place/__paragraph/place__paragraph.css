@@ -13,9 +13,9 @@
 
 @media screen and (max-width: 568px) {
   .place__paragraph {
+    max-width: 288px;
     grid-column: 1;
-    margin-left: 24px;
-    margin-right: 24px;
+    margin: 0 16px 18px;
   }
 
   .place__paragraph:first-of-type {
