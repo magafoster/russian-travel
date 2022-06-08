@@ -20,11 +20,6 @@
 @media screen and (max-width: 984px){
   .lead{
     max-width: 768px;
-  }
-}
-
-@media screen and (max-width: 768px){
-  .lead{
-    margin: 0;
+    margin: 0 auto;
   }
 }

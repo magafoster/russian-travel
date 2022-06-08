@@ -5,6 +5,18 @@
 @media screen and (max-width: 1140px){
   .content{
     margin-top: 48px;
+  }
+}
+
+@media screen and (max-width: 768px){
+  .content{
+    margin-bottom: 88px;
+  }
+}
+
+
+@media screen and (max-width: 568px){
+  .content{
     margin-bottom: 64px;
   }
 }
